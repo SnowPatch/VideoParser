@@ -1,7 +1,7 @@
 {
     "name": "snowpatch/videoparser",
     "description": "Easily get the provider, video ID or embed URL of Youtube or Vimeo videos",
-    "license": "AGPL v3",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Sven Bachmann"
